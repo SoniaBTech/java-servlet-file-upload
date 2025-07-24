@@ -29,7 +29,6 @@
 
     <build>
         <plugins>
-            <!-- Jetty Plugin to run servlet in GitPod -->
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
@@ -46,3 +45,4 @@
         </plugins>
     </build>
 </project>
+
